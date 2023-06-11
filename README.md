@@ -9,7 +9,7 @@
 <img align="center" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMeiring&layout=compact&langs_count=7&theme=radical"/>
 <br />
 <br />
-<img align="center" src="https://img.shields.io/badge/node-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <br>
 </div>
