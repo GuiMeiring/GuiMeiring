@@ -1,4 +1,4 @@
-### Hello, my name is Guilherme Franciel Meiring. I'm 18 years old and I'm a developer, I started programming in 2022.
+Hello, my name is Guilherme Franciel Meiring. I'm 18 years old and I'm a developer, I started programming in 2022.
 
 <div  align="center">
  <a  href="https://www.linkedin.com/in/guilherme-franciel-meiring-a05596247/"><img align="center" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
