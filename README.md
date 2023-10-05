@@ -12,7 +12,4 @@ Hello, my name is Guilherme Franciel Meiring. I'm 18 years old and I'm a develop
 <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <br>
-<br>
- 
-See my best projects here!
 </div>
