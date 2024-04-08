@@ -1,14 +1,26 @@
-Hello, my name is Guilherme Franciel Meiring. I'm 18 years old and I'm a developer, I started programming in 2022.
-<br>
-<div  align="center">
- <a  href="https://www.linkedin.com/in/guilherme-franciel-meiring-a05596247/"><img align="center" alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br />
-<br />
-<img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=GuiMeiring&show_icons=true&theme=radical" />
-<img align="center" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMeiring&layout=compact&langs_count=7&theme=radical"/>
-<br />
-<br />
-<img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<br>
-</div>
+# Sobre mim
+
+Olá! Eu sou Guilherme, um desenvolvedor dedicado pela criação de software, com foco especial em programação back-end. Estou constantemente buscando aprimorar minhas habilidades e técnicas nesta área em constante evolução.
+
+## Principais Interesses
+
+Meus principais interesses incluem:
+
+- Desenvolvimento de sistemas robustos em Java utilizando o framework Spring Boot.
+- Criação de APIs Restful com node.js em JavaScript e TypeScript.
+- Trabalho com Banco de Dados MySQL para armazenamento e gerenciamento de dados.
+
+## Principais Projetos
+
+Aqui estão alguns dos meus projetos destacados:
+
+### [City Explore API](https://github.com/GuiMeiring/city-explore-api)
+API Rest sendo desenvolvidade em node.js com TypeScript projetada para fornecer informações climáticas e avalições sobre  cidades, incluindo capacidade de favoritar cidades específicas.
+
+### [Portifólio](https://github.com/GuiMeiring/guimeiring.github.io)
+Potifólio sendo desenvolvido apenas com HTML, CSS e JavaScript
+
+### [Jogo da Velha](https://github.com/GuiMeiring/jogo-da-velha)
+Projeto construido em Java, afim de aprendizagem
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMeiring&layout=compact&langs_count=7&theme=radical"/>
