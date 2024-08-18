@@ -9,6 +9,7 @@ Meus principais interesses incluem:
 - Desenvolvimento de sistemas robustos em Java utilizando o framework Spring Boot.
 - Criação de APIs Restful com node.js em JavaScript e TypeScript.
 - Trabalho com Banco de Dados MySQL para armazenamento e gerenciamento de dados.
+- Desenvolvimento ERP com a liguagem de programação Caché
 
 ## Principais Projetos
 
